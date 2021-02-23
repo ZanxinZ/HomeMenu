@@ -17,3 +17,16 @@ Show the menu in the order screen
 - If you want to change the pictures for show,you can change the pictures in the sub-folder of the folder [pic](./pic).
 
   ![sub-folder](sub-folder.png)
+
+- The user can magnify the picture by left click.
+
+- The user can edit the picture by right click.(Undercarriage or change the food)
+
+## Impression drawing
+
+- ![image-20210223151521724](win.png)
+- ![right-click](right-click.png)
+
+- ![chage](change.png)
+
+- ![uncarriage](uncarriage.png)
