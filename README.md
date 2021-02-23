@@ -5,7 +5,7 @@ Show the menu in the order screen
 
 - This is a Java swing project.
 
-- The code is packed in a packet named 'menu.jar'.(Pack the folder [menu](./menu) and then get the 'menu.jar')
+- The code is packed in a packet named 'menu.jar'.(Pack the folder [Menu](./Menu) and then get the 'menu.jar')
 
 - The resources were in a folder named [pic](./pic).
 - In the folder [pic](./pic),there use a [hello.txt](./pic/hello.txt) to save the status of the picture to demonstrate which pictures to show.
