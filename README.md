@@ -20,7 +20,7 @@ Show the menu in the order screen
 
 - The user can magnify the picture by left click.
 
-- The user can edit the picture by right click.(Undercarriage or change the food)
+- The user can edit the picture by right click.(Revoke or change the food)
 
 ## Impression drawing
 
